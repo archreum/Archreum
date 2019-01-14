@@ -1,0 +1,9 @@
+Building Archreum
+
+See doc/readme-qt.rst for instructions on building Archreum-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Archreum.
+
+See doc/build-*.txt for instructions on building archreumd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Archreum.
